@@ -8,6 +8,7 @@
 #include <time.h>
 #include <vector>
 #include <omp.h>
+#include<bits/stdc++.h>
 
 class AdaptiveHuffmanCoding
 {
