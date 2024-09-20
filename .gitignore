@@ -1,0 +1,12 @@
+# test results
+*.csv
+*.png
+
+# refrences
+archive
+
+# test datasets
+test_data
+
+# executables
+*.out
